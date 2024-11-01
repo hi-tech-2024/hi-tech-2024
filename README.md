@@ -101,7 +101,7 @@ IP адресация в топологии выбирается на ваше �
     | Windows 10               | OUTTER                                   |
     | Windows Server 2022 GUI  | WIN-SRV1, WIN-SRV2, WIN-SRV3             |
     | Eltex vESR 1.8           | vESR-COD, vESR-Office, vESR-Branch       |
-    | TrueNAS Core 13.0-U6.1   | vESR-Branch                              |
+    | TrueNAS Core 13.0-U6.1   | NFS                                      |
 
 
 13. Таблица VLAN ЦОД
